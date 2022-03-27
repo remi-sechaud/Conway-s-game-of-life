@@ -1,0 +1,437 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"temp_map_code"
+			],
+			[
+				"max",
+				"max_seed"
+			],
+			[
+				"Cle",
+				"ClearMap"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"nb",
+				"nbAround"
+			],
+			[
+				"pos",
+				"pos_y"
+			],
+			[
+				"WIN",
+				"WIN_Y"
+			],
+			[
+				"aff",
+				"affichageGrille"
+			],
+			[
+				"gri",
+				"grillePleine"
+			],
+			[
+				"Pi",
+				"PionJoueur"
+			],
+			[
+				"SDL",
+				"SDL_Renderer"
+			],
+			[
+				"d",
+				"def\t#ifndef … #define … #endif"
+			],
+			[
+				"dect",
+				"decrypt_message"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"image",
+				"image_list"
+			],
+			[
+				"class",
+				"class_path"
+			],
+			[
+				"epi",
+				"episodeTitle"
+			],
+			[
+				"time",
+				"time_list"
+			],
+			[
+				"ca",
+				"calculation_type"
+			],
+			[
+				"type",
+				"type_list"
+			],
+			[
+				"ty",
+				"typing"
+			],
+			[
+				"im",
+				"im_typing"
+			],
+			[
+				"the",
+				"theAsk"
+			],
+			[
+				"wh",
+				"whichList"
+			],
+			[
+				"bina",
+				"binary_word"
+			],
+			[
+				"shadok",
+				"shadok_word"
+			]
+		]
+	},
+	"build_system": "Build Debug",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build Debug",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Build Debug",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/meigh/Desktop/GOL/bin/debug/main.exe",
+		"/C/Users/meigh/Desktop/GOL/bin/debug/libjpeg-9.dll",
+		"/C/Users/meigh/Desktop/Skill/src/main.cpp",
+		"/C/Users/meigh/Desktop/GOL/src/main.cpp",
+		"/C/Users/meigh/Desktop/game of life video/p1.mp4",
+		"/C/Users/meigh/Downloads/game-of-life-master/game-of-life-master/game_of_life.cpp",
+		"/C/Users/meigh/Desktop/3dEngine/game.o",
+		"/C/Users/meigh/Desktop/simulation/src/main.cpp",
+		"/C/Users/meigh/Desktop/Reversi/src/main.cpp",
+		"/C/Users/meigh/Desktop/3dEngine/src/game.cpp",
+		"/C/Users/meigh/Desktop/3dEngine/src/player.cpp",
+		"/C/Users/meigh/Desktop/Les Dames/src/main.cpp",
+		"/C/Users/meigh/Desktop/Reversi/src/player.cpp",
+		"/C/Users/meigh/Desktop/Reversi/src/render_window.cpp",
+		"/C/Users/meigh/Desktop/gfame/include/game.hpp",
+		"/C/Users/meigh/Desktop/Les Dames/src/render_window.cpp",
+		"/C/Users/meigh/Desktop/je sais pas encore/src/render_window.cpp",
+		"/C/Users/meigh/Desktop/je sais pas encore/include/render_window.hpp",
+		"/C/Users/meigh/Desktop/je sais pas encore/include/game.hpp",
+		"/C/Users/meigh/Desktop/je sais pas encore/src/game.cpp",
+		"/C/Users/meigh/Desktop/je sais pas encore/src/main.cpp",
+		"/C/Users/meigh/Desktop/Les Dames/src/game.cpp",
+		"/C/Users/meigh/Desktop/Les Dames/include/render_window.hpp",
+		"/C/Users/meigh/Desktop/Conway's game/src/main.cpp",
+		"/C/Users/meigh/Desktop/tictactoe (17).py",
+		"/C/Users/meigh/Desktop/Les Dames/include/grid.hpp",
+		"/C/Users/meigh/Desktop/Les Dames/src/grid.cpp",
+		"/C/Users/meigh/Desktop/Les Dames/include/game.hpp",
+		"/C/Users/meigh/Desktop/Les Dames/include/player.hpp",
+		"/C/Users/meigh/Desktop/Les Dames/src/player.cpp",
+		"/C/Users/meigh/Downloads/tictactoe (18).py",
+		"/C/Users/meigh/Downloads/tictactoe (17).py",
+		"/C/Users/meigh/Desktop/Truc Python/Tic Tac Toe/Version non-noté avec les classes/main.py",
+		"/C/Users/meigh/Desktop/Truc Python/Tic Tac Toe/Version non-noté avec les classes/constant.py",
+		"/C/Users/meigh/Desktop/Truc Python/Tic Tac Toe/Version non-noté avec les classes/bot.py",
+		"/C/Users/meigh/Desktop/Les Dames/bin/debug/main.exe",
+		"/C/Users/meigh/Desktop/C stuff/POWER4/src/drawGrid.c",
+		"/C/Users/meigh/Desktop/Conway's game/src/render_window.cpp",
+		"/C/Users/meigh/Desktop/C stuff/POoWER4/src/main.c",
+		"/C/Users/meigh/Desktop/C stuff/POoWER4/src/drawGrid.c",
+		"/C/Users/meigh/Desktop/C stuff/POoWER4/src/applyPieces.c",
+		"/C/Users/meigh/Desktop/C stuff/POoWER4/src/initPieces.c",
+		"/C/Users/meigh/Desktop/Conway's game/src/grid.cpp",
+		"/C/Users/meigh/Desktop/Truc Python/simulation/simulation.py",
+		"/C/Users/meigh/Desktop/C stuff/POWER4/src/main.c",
+		"/C/Users/meigh/Desktop/C stuff/POWER4/src/drawGrid.h",
+		"/C/Users/meigh/Desktop/Conway's game/src/renderwindow.cpp",
+		"/C/Users/meigh/Desktop/Conway's game/include/render_window.hpp",
+		"/C/Users/meigh/Desktop/Conway's game/game.sublime-project",
+		"/C/Users/meigh/Desktop/Game/src/Player.cpp",
+		"/C/Users/meigh/Desktop/Game/res/img/triangle.png",
+		"/C/Users/meigh/Desktop/Game/include/Player.hpp",
+		"/C/Users/meigh/Desktop/SNAKE/src/renderwindow.cpp",
+		"/C/Users/meigh/Desktop/SNAKE/include/RenderWindow.hpp",
+		"/C/Users/meigh/Desktop/SNAKE/src/main.cpp",
+		"/C/Users/meigh/Desktop/SNAKE/Snake.sublime-project",
+		"/C/SDL2/include/SDL.h",
+		"/C/Users/meigh/Desktop/SNAKE/bin/release/main.exe",
+		"/C/Users/meigh/Desktop/test c++/main.cpp",
+		"/C/Users/meigh/Desktop/SNAKE/SNAKE.sublime-project",
+		"/C/Users/meigh/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/meigh/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/C/Users/meigh/Desktop/test.cpp",
+		"/C/Users/meigh/Desktop/test c++/class.hpp",
+		"/C/Users/meigh/Desktop/test c++/class.cpp",
+		"/C/Users/meigh/Desktop/Nouveau dossier/asker.py",
+		"/C/Users/meigh/Desktop/qsdf.py",
+		"/C/Users/meigh/Desktop/POoWER4/src/main.c",
+		"/C/Users/meigh/Desktop/POWER4/src/applyMove.h",
+		"/C/Users/meigh/Desktop/POWER4/src/applyMove.c",
+		"/C/Users/meigh/Desktop/POWER4/src/checkWin.h",
+		"/C/Users/meigh/Desktop/POWER4/src/checkWin.c",
+		"/C/Users/meigh/Desktop/POWER4/src/drawGrid.h",
+		"/C/Users/meigh/Desktop/POWER4/src/drawGrid.c",
+		"/C/Users/meigh/Desktop/POWER4/src/userMove.h",
+		"/C/Users/meigh/Desktop/POWER4/src/userMove.c",
+		"/C/Users/meigh/Desktop/POWER4/src/isFull.h",
+		"/C/Users/meigh/Desktop/POWER4/src/isFull.c",
+		"/C/Users/meigh/Desktop/POWER4/src/botMove.h",
+		"/C/Users/meigh/Desktop/le tic tac toe/bot.py",
+		"/C/Users/meigh/Desktop/POWER4/src/botMove.c",
+		"/C/Users/meigh/Desktop/POWER4/src/main.c",
+		"/C/Users/meigh/Downloads/TicTacToe (16).py",
+		"/C/Users/meigh/Desktop/POWER4/src/Player.h",
+		"/C/Users/meigh/Desktop/POWER4/src/Player.c",
+		"/C/Users/meigh/Desktop/circle tuto.c/src/main3.c",
+		"/C/Users/meigh/Desktop/circle tuto.c/src/main.c",
+		"/C/Users/meigh/Desktop/POWER4/src/applyClick.h",
+		"/C/Users/meigh/Desktop/POWER4/src/applyClick.c",
+		"/C/Users/meigh/Desktop/circle tuto.c/src/main2.c",
+		"/C/Users/meigh/Desktop/POoWER4/src/drawGrid.c",
+		"/C/Users/meigh/Desktop/POWER4 - Copie/src/main.c",
+		"/C/Users/meigh/Desktop/chess/src/main.c",
+		"/C/Users/meigh/Desktop/chess/src/drawGrid.h",
+		"/C/Users/meigh/Desktop/chess/src/drawGrid.c",
+		"/C/Users/meigh/Desktop/chess/src/initPieces.h",
+		"/C/Users/meigh/Desktop/chess/src/initPieces.c",
+		"/C/Users/meigh/Desktop/chess/include/SDL_filesystem.h",
+		"/C/Users/meigh/Desktop/TicTacToe (15).py",
+		"/C/Users/meigh/AppData/Local/osu!/osu!.exe",
+		"/C/Users/meigh/Desktop/chess/include/SDL_rect.h",
+		"/C/Users/meigh/Desktop/chess/include/SDL_blendmode.h",
+		"/C/Users/meigh/Desktop/Projet-SDL-2.0.7/src/main.c",
+		"/C/Users/meigh/Desktop/le tic tac toe/game.py",
+		"/C/Users/meigh/Desktop/le tic tac toe/grid.py",
+		"/C/Users/meigh/Desktop/Inventeur de mot/Inventeur de mot.py",
+		"/C/Users/meigh/Desktop/turtle.py",
+		"/C/Users/meigh/Desktop/Pong/main.py",
+		"/C/Users/meigh/Desktop/le tic tac toe/main.py",
+		"/C/Users/meigh/Desktop/Truc Python/Genetique/main.py",
+		"/C/Users/meigh/Desktop/Truc Python/Genetique/player.py",
+		"/C/Users/meigh/Desktop/BrickGame/main.py",
+		"/C/Users/meigh/Desktop/j.py",
+		"/C/Users/meigh/Downloads/morpion (11).py",
+		"/C/Users/meigh/Desktop/Tic Tac Toe/Version non-noté avec les classes/bot.py",
+		"/C/Users/meigh/Downloads/Projet Tic Tac Toe (4).py",
+		"/C/Users/meigh/Downloads/tictactoe (13).py",
+		"/C/Users/meigh/Downloads/tictactoe V2 (1) (1).py",
+		"/C/Users/meigh/Downloads/tictactoe V2 (1).py",
+		"/C/Users/meigh/Downloads/Projet Tic Tac Toe (2) (2).py",
+		"/C/Users/meigh/Downloads/Projet Tic Tac Toe (2) (1).py",
+		"/C/Users/meigh/Downloads/Morpion daniel COUMOUL OUTALEB.py",
+		"/C/Users/meigh/Desktop/mini projet tic tac toe (3).py",
+		"/C/Users/meigh/Downloads/projet TicTacToe (2).py",
+		"/C/Users/meigh/Downloads/Projet Tic Tac Toe (2).py",
+		"/C/Users/meigh/Downloads/mini projet officiel (1).py",
+		"/C/Users/meigh/Downloads/mini projet officiel.py",
+		"/C/Users/meigh/Desktop/Tic Tac Toe - Besson et Sechaud/Avec interface/main.py"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"25",
+			"5",
+			"auto",
+			"unsigned int",
+			"s ",
+			" s ",
+			" map_code",
+			"}",
+			"cout",
+			"gen",
+			"}\n",
+			"0",
+			"current_map",
+			"cout",
+			"mwindows",
+			"Init(",
+			"Init",
+			" width",
+			" width ",
+			"width",
+			"w",
+			"width",
+			"seed",
+			"colour",
+			"SDL",
+			"SDL_Dela",
+			"SDL_Delay",
+			"ray_y",
+			"goLeft",
+			";\n",
+			"();\n",
+			")))*",
+			"\t\n",
+			"{}\n",
+			"10",
+			";;",
+			"();\n",
+			"player1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 221.0
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build Debug",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src\\main.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
